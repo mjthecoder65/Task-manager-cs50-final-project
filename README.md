@@ -2,7 +2,7 @@
 A simple task management project that I worked on as CS50 final project for managing
 daily tasks
 
-### App Features:
+### Application Features:
 - Register
 - Login
 - Logout
