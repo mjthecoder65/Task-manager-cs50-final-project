@@ -1,6 +1,5 @@
 # Task Management App
-A simple task management project that I worked on as CS50 final project for managing
-daily tasks
+A simple task management project that I worked on as CS50 final project in 2020.
 
 ### Application Features:
 - Register
