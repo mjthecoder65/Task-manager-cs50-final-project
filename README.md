@@ -1,12 +1,8 @@
-# Task management
+# Task Management App
+A simple task management project that I worked on as CS50 final project for managing
+daily tasks
 
-
-PROJECT OBJECTIVE
-- A task management is a personal application for managing
-daily tasks. I also did this project to practice and gain a deep understanding
-of concepts that I learned form CS50.
-
-FUNCTIONALITIES:
+## FUNCTIONALITIES:
 - Register
 - Login
 - Logout
@@ -15,10 +11,8 @@ FUNCTIONALITIES:
 - viewing completed tasks
 - watch for tracking time.
 
-TECHOLOGIES USED
-- Python
-- SQLITE3
-- HTML
-- BOOTSTRAP
-- CSS
-- JAVASCRIPT
+## Tech Task
+* Python + Flask
+* SQLITE3
+* BOOTSTRAP, and CSS
+* Javascript
