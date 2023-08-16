@@ -2,7 +2,7 @@
 A simple task management project that I worked on as CS50 final project for managing
 daily tasks
 
-## FUNCTIONALITIES:
+### App Features:
 - Register
 - Login
 - Logout
@@ -11,7 +11,7 @@ daily tasks
 - viewing completed tasks
 - watch for tracking time.
 
-## Tech Task
+### Tech Task
 * Python + Flask
 * SQLITE3
 * BOOTSTRAP, and CSS
