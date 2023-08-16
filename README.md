@@ -1,5 +1,5 @@
-Project title: Task management
-Authoor: michael53161@gmail.com
+# Task management
+
 
 PROJECT OBJECTIVE
 - A task management is a personal application for managing
